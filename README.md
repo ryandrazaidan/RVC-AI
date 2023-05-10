@@ -2,4 +2,4 @@
 Retrieval based Voice Conversion
 
 Train or Inference
-https://colab.research.google.com/github/ryandrazaidan/RVC-AI/blob/main/RVC_AI_Song_Cover.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NDSuHm8y5ElESWYAS4ObArI0rlz5Ooab?usp=sharing)

@@ -1,5 +1,8 @@
 # RVC-AI
 Retrieval based Voice Conversion
 
-### For Training and Inference
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NDSuHm8y5ElESWYAS4ObArI0rlz5Ooab?usp=sharing)
+### Untuk training dan inference
+[![Open In Colab](https://colab.research.google.com/github/ryandrazaidan/RVC-AI/blob/main/RVC_AI_Song_Cover.ipynb)
+
+### Versi easy GUI
+[![Open In Colab](https://colab.research.google.com/github/ryandrazaidan/RVC-AI/blob/main/RVC_Easy_GUI.ipynb)
